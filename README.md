@@ -1,6 +1,6 @@
                                          
 <div id="header" align="center" >
-    <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif"  alt="giphy" width="100" />
+    <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif"  alt="giphy" width="200" />
 
 
 <div id="badges">
@@ -19,7 +19,7 @@
 
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="100px"/>
 </h1>
 </div>
 
@@ -32,15 +32,13 @@
 
 ### :electron: About me : 
 
-I am a full stack developer :desktop_computer from Kenya :kenya: 
-
-                  
-    - :telescope: So My name is Abdi Omari, a web enthusiast probably obsessed with everything Tech.
-    - :seedling: I am a freelance Web developer, with deep interest in web and software development                   
-    - :bulb: I am open to any project ideas, discussions, Job offers, collaboration as well as basic networking.
-    - :e-mail: My email abdiomari145@gmail.com
-    - :mailbox: LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-omari-11a388200/)
-    - 📫 How to reach me **abdiomari145@gmail.com**
+I am a full stack developer :desktop_computer from Kenya :kenya:                 
+- :telescope: So My name is Abdi Omari, a web enthusiast probably obsessed with everything Tech.
+- :seedling: I am a freelance Web developer, with deep interest in web and software development                   
+- :bulb: I am open to any project ideas, discussions, Job offers, collaboration as well as basic networking.
+- :e-mail: My email abdiomari145@gmail.com
+- :mailbox: LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-omari-11a388200/)
+- 📫 How to reach me **abdiomari145@gmail.com**
      
             
                            
@@ -56,17 +54,13 @@ I am a full stack developer :desktop_computer from Kenya :kenya:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/bootstrap.svg" alt="tailwind" width="40" height="40"/> </a> 
 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
- 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer">   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/github.svg" alt="git" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> 
 
