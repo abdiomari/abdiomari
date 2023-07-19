@@ -1,5 +1,5 @@
                                          
-<div id="header" align="center" >
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif"  alt="giphy" width="200" />
 
 
@@ -32,15 +32,15 @@
 
 ### :electron: About me : 
 
-I am a full stack developer :desktop_computer from Kenya :kenya:                 
+I am a full stack developer :desktop_computer: from Kenya :kenya:                 
 - :telescope: So My name is Abdi Omari, a web enthusiast probably obsessed with everything Tech.
 - :seedling: I am a freelance Web developer, with deep interest in web and software development                   
 - :bulb: I am open to any project ideas, discussions, Job offers, collaboration as well as basic networking.
 - :e-mail: My email abdiomari145@gmail.com
-- :mailbox: LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-omari-11a388200/)
+- :mailbox: LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Abdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-omari-11a388200/)
 - 📫 How to reach me **abdiomari145@gmail.com**
-     
-            
+
+---
                            
                             
 <h3 align="center">Welcome to my World: </h3>
@@ -76,6 +76,10 @@ I am a full stack developer :desktop_computer from Kenya :kenya:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdiomari&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdiomari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Just a code sample
 
 ```python
 class AboutMe:
