@@ -19,7 +19,7 @@
 
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="100px"/>
+  <img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="90px"/>
 </h1>
 </div>
 
@@ -33,7 +33,7 @@
 ### :electron: About me : 
 
 I am a full stack developer :desktop_computer: from Kenya :kenya:                 
-- :telescope: So My name is Abdi Omari, a web enthusiast probably obsessed with everything Tech.
+- :telescope: So My name is Abdi Omari, a web enthusiast equiped with skills in Web development, Ecommerce,  Mpesa Integration, API Development, Product Design, Project Management and Technical Writing
 - :seedling: I am a freelance Web developer, with deep interest in web and software development                   
 - :bulb: I am open to any project ideas, discussions, Job offers, collaboration as well as basic networking.
 - :e-mail: My email abdiomari145@gmail.com
@@ -82,20 +82,20 @@ I am a full stack developer :desktop_computer: from Kenya :kenya:
 ### Just a code sample
 
 ```python
-class AboutMe:
+class Dev:
     def __init__(self):
         self.name = "Abdi Omari"
         self.title = "FullStack developer"
         self.techStack= [ 'HTML' , 'CSS' ',tailwindCSS',  'JavaScript' , 'React' , 'Django' , 'Node.js'  ]
-        self.Skills = ['Ecommerce', 'Web development','Mpesa Integration', 'API development', 'Product design', 'project management', 'Technical writing' ]
+        self.skills = ['Ecommerce', 'Web development','Mpesa Integration', 'API development', 'Product design', 'project management', 'Technical writing' ]
     
     def introduce(self): 
         print(f"Hello there, My name is {self.name}")
         print(f"I develop in {join(self.techStack)}")
-        print(f"I have skills in {join(self.Skills)}")
+        print(f"I have skills in {join(self.skills)}")
 
-my_info = AboutMe()
-my_info.introduce()
+dev_background = Dev()
+dev_background.introduce()
 
 ```
 
