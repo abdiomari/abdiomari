@@ -76,8 +76,8 @@ class Dev:
     
     def introduce(self): 
         print(f"Hello there, My name is {self.name}")
-        print(f"I develop in {join(self.techStack)}")
-        print(f"I have skills in {join(self.skills)}")
+        print(f"I develop in {', '.join(self.techStack)}")
+        print(f"I have skills in {', '.join(self.skills)}")
 
 dev_background = Dev()
 dev_background.introduce()
